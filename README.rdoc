@@ -1,5 +1,5 @@
 Readme
-*--
-* © 2 Thomases 2016</h3>
+*
+* © 2 Thomases 2016
 * This is the ruby login page for SETO that is still in development.
---*
+
