@@ -1,3 +1,5 @@
-<h1>Readme</h1>
-<h3>© 2 Thomases 2016</h3>
-<p>This is the ruby login page for SETO that is still in development.</p>
+Readme
+*--
+* © 2 Thomases 2016</h3>
+* This is the ruby login page for SETO that is still in development.
+--*
